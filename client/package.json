@@ -1,5 +1,5 @@
 {
-  "name": "code-editor",
+  "name": "JATE",
 
   "scripts": {
     "dev": "webpack-dev-server",
