@@ -25,7 +25,7 @@ For this application to work, you need an internet connection and a device with 
 Once you've accessed the deployed application on Heroku, you may use it in the browser or install it to be used offline on your device.
 
 Screenshot:
-
+![jate 2](https://user-images.githubusercontent.com/115193125/233858715-6c9f931a-3cfe-4835-934c-3520d0c94310.png)
 
 ## License
 
