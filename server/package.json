@@ -1,22 +1,18 @@
 {
-    "name": "J.A.T.E.",
-    "version": "1.0.0",
-    "description": "c19-PWA",
-    "main": "server.js",
-    "engines": {
-      "node": "v18.12.1"
-    },
-    "scripts": {
-      "server": "nodemon server.js --ignore client",
-      "start": "node server.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
+  "name": "JATE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+      "server": "nodemon server.js --ignore client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
       "express": "^4.17.1"
-    },
-    "devDependencies": {
+  },
+  "devDependencies": {
       "nodemon": "^2.0.4"
   }
-  }
+}
